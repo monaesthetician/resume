@@ -1,0 +1,37 @@
+body {
+   background-color: pink;
+ }
+ h1 {
+   color: #51adcf;
+ }
+
+ h2 {
+   color: #394867;
+ }
+ h3 {
+   color: #0278ae;
+ }
+
+p {
+  color: #625261;
+}
+
+td {
+  color: #625261;
+}
+
+tr {
+  color: #625261;
+}
+
+li {
+  color: #625261;
+}
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 7px;
+    width: 5%;
+
+  }
